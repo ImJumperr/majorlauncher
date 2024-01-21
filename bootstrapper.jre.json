@@ -1,0 +1,45 @@
+{
+  "config": {
+    "LINUX": {
+      "x64": {
+        "javaFolder": "jre1.8.0_51",
+        "url": [
+          "https://download.oracle.com/otn/java/jdk/8u51-b16/jre-8u51-linux-x64.tar.gz"
+        ],
+        "storagePath": "jre-8u51-linux-x64.tar.gz"
+      },
+      "x32": {
+        "javaFolder": "jre1.8.0_51",
+        "url": [
+          "https://download.oracle.com/otn/java/jdk/8u51-b16/jre-8u51-linux-i586.tar.gz"
+        ],
+        "storagePath": "jre-8u51-linux-i586.tar.gz"
+      }
+    },
+    "OSX": {
+      "x64": {
+        "javaFolder": "jre1.8.0_51",
+        "url": [
+          "https://download.oracle.com/otn/java/jdk/8u51-b16/jre-8u51-macosx-x64.tar.gz"
+        ],
+        "storagePath": "jre-8u51-macosx-x64.tar.gz"
+      }
+    },
+    "WINDOWS": {
+      "x64": {
+        "javaFolder": "jre1.8.0_51",
+        "url": [
+          "https://download.oracle.com/otn/java/jdk/8u51-b16/jre-8u51-windows-x64.tar.gz"
+        ],
+        "storagePath": "jre-8u51-windows-x64.tar.gz"
+      },
+      "x32": {
+        "javaFolder": "jre1.8.0_51",
+        "url": [
+          "https://download.oracle.com/otn/java/jdk/8u51-b16/jre-8u51-windows-i586.tar.gz"
+        ],
+        "storagePath": "jre-8u51-windows-i586.tar.gz"
+      }
+    }
+  }
+}
